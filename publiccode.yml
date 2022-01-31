@@ -4,7 +4,7 @@
 
 publiccodeYmlVersion: '0.3'
 name: OpenWISP 2 Controller
-url: 'https://github.com/openwisp/openwisp-controller'
+url: 'https://github.com/ShreeshaRelysys/openwisp-controller'
 developmentStatus: stable
 platforms:
   - linux
