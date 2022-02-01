@@ -12,7 +12,7 @@ netjsonconfig @ https://github.com/ShreeshaRelysys/netjsonconfig/tarball/wiregua
 # TODO: change this when next point version of openwisp-users is released
 openwisp-users @ https://github.com/ShreeshaRelysys/openwisp-users/tarball/master
 # TODO: change this when next point version of openwisp-notifications is released
-openwisp-notifications @ https://github.com/ShreeshaRelysys/openwisp-notifications/tarball/master
+openwisp-notifications @ https://github.com/ShreeshaRelysys/openwisp-notification/tarball/master
 # TODO: change this when the next point version of openwisp-ipam is released
 openwisp-ipam @ https://github.com/ShreeshaRelysys/openwisp-ipam/tarball/master
 djangorestframework-gis~=0.18.0
