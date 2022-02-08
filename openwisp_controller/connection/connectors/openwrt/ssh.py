@@ -40,7 +40,7 @@ class OpenWrt(Ssh):
             logger.info('Configuration already being applied')
 
     def reboot(self):
-        return self.exec_command('reboot')
+        return self.exec_command('/root/usrRPC/script/Board_Recycle_12V_Script.sh')
 
     def change_password(self, password, confirm_password, user='root'):
         return self.exec_command(
